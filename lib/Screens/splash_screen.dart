@@ -2,7 +2,6 @@ import 'dart:async';
 import 'package:anonym_ask/Helper/api_services.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
 import 'chat_screen.dart';
 import 'choose_avatar.dart';
 
@@ -33,7 +32,7 @@ class _SplashScreenState extends State<SplashScreen> {
           begin: Alignment.centerLeft,
           end: Alignment.centerRight,
           // colors: [Color(0xFF8C52FF), Color(0xFF5CE1E6)],
-          colors: [Color(0xFF004156), Color(0xFF004C6F)],
+          colors: [Color(0xFF000000), Color(0xFF281640)],
         ),
       ),
       child: Scaffold(
@@ -48,7 +47,7 @@ class _SplashScreenState extends State<SplashScreen> {
                   child: Container(
                     padding: const EdgeInsets.all(30),
                     height: 40,
-                    child: Image.asset('images/user_male.png'),
+                    child: Image.asset('images/anonym_logo.png'),
                   ),
                 ),
                 const Text(
