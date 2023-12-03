@@ -30,7 +30,7 @@ AnonymAsk is an interactive chatbot application built using artificial intellige
 
 You can download the latest version of our app using the links below:
 
-- [Download for Android](https://github.com/rohitsinghkcodes/AI-Chatty/releases/download/AI_chatty_apk_v_3.0/app-arm64-v8a-release.apk)
+- [Download for Android](https://github.com/rohitsinghkcodes/AnonymAsk/releases/download/AnonymAsk/app-arm64-v8a-release.apk)
 
 <br>
 
