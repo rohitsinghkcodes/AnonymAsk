@@ -15,13 +15,14 @@ AnonymAsk is an interactive chatbot application built using artificial intellige
 ## Screens
 
 <p float="left">
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img1.png" width="200" />
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img2.png" width="200" />
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img3.png" width="200" />
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img4.png" width="200" />
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img5.png" width="200" />
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img6.png" width="200" />
-  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/Ai%20Chatty/img7.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img1.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img2.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img3.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img4.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img5.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img6.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img7.png" width="200" />
+  <img src="https://github.com/rohitsinghkcodes/RESOURCES/blob/master/AnonymAsk/img8.png" width="200" />
 </p>
 
 <br>
